@@ -11,6 +11,8 @@ Este proyecto incluye el código fuente desarrollado en Python con el framework 
 ------------------------------
 ## Estructura del repositorio ##
 
+```
+
 TIR-Switch-TFG/
 ├── CGC_swg_batch.ipynb # Notebook del diseño A (CGC)
 ├── Cross_switch_swg_batch.ipynb # Notebook del diseño B (Splitter)
@@ -18,16 +20,19 @@ TIR-Switch-TFG/
 ├── Cross_switch_swg_batch.py # Versión exportada a .py del Splitter
 ├── README.md # Este archivo
 
+```
+
 
 -----------------------------
 ## Requisitos ##
 
 Es recomendable usar un entorno virtual:
 
+```bash
 python -m venv tfg_env
 source tfg_env/bin/activate   # en Windows: .\tfg_env\Scripts\activate
 pip install tidy3d matplotlib pandas numpy
-
+```
 
 Si estás en JupyterLab, también puedes instalar las dependencias allí.
 Se sugiere usar Python 3.8 o superior.
