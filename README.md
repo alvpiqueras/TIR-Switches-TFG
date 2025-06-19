@@ -40,12 +40,12 @@ Se sugiere usar Python 3.8 o superior.
 -------------------------------
 ## ¿Qué hace cada archivo? ##
 
-CGC_swg_batch.py
+`CGC_swg_batch.py`
 Simula un acoplador CGC con una región SWG transversal. Se analiza cómo la variación del ciclo de trabajo 
 f afecta la división del flujo óptico entre los puertos superior, inferior y reflejado. Se exploran valores de 
 f entre 0.5 y 0.8.
 
-Cross_switch_swg_batch.py
+ `Cross_switch_swg_batch.py`
 Simula un conmutador en cruz con SWG inclinada, analizando el efecto de cambiar el índice de refracción efectivo (mediante el parámetro 
 "delta"). Se exploran valores de delta entre 0.005 y 0.01, imitando una posible modulación por dispersión de portadores.
 
