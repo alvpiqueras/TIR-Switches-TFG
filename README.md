@@ -35,9 +35,11 @@ TIR-Switch-TFG/
 
 Se recomienda crear un entorno virtual:
 
+```
 python -m venv tfg_env
 source tfg_env/bin/activate    # Windows: .\tfg_env\Scripts\activate
 pip install tidy3d matplotlib pandas numpy
+```
 
 * Python 3.8 o superior
 * JupyterLab (opcional, para trabajar con los notebooks)
