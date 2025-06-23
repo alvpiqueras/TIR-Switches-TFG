@@ -1,7 +1,7 @@
 # TIR-Switch-TFG
 
 Repositorio asociado al Trabajo de Fin de Grado (TFG):  
-**Conmutadores fotónicos basados en reflexión total interna frustrada (FTIR) y rejillas sub-longitud de onda (SWG)**.
+**Conmutadores fotónicos integrados de reflexión total interna para el futuro de la fotónica programable **.
 
 Este proyecto incluye el código fuente desarrollado en Python con el framework [Tidy3D](https://www.flexcompute.com/tidy3d/) para diseñar, simular y analizar dos dispositivos fotónicos:
 
